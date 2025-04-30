@@ -127,3 +127,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by home automation needs
 - Community-driven improvements welcome
 "# Smart-Lighting-Manager" 
+"# Smart-Lighting-Manager" 
